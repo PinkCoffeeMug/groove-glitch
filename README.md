@@ -43,13 +43,41 @@
 <!-- ABOUT -->
 ## :star: About
 <!-- Add your project description here -->
+a React and Django Web App
 
 <!-- CONTENT -->
 ## :clipboard: Documentation
-> 
 
 ### :green_apple: Setup
 <!-- Add setup instructions here -->
+- nodejs, npm
+    - frontend
+      - `django-admin startapp frontend`
+      - `npm init -y`
+      -  webpack: 
+         -  `npm i webpack webpack-cli --save-dev`
+         -  add in script
+            -  `"dev": "webpack --mode development --watch"`
+            -  `"build": "webpack --mode production"`
+      -  babel: 
+         -  `npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev`
+         -  `npm install @babel/plugin-proposal-class-properties`
+      -  react: 
+         -  `npm i react react-dom --save-dev`
+         -  `npm install react-router-dom`
+      -  material-ui: 
+         -  `npm install @material-ui/core` or `npm install --save --legacy-peer-deps @material-ui/core`
+         -  `npm install @material-ui/icons` or `npm install --save --legacy-peer-deps @material-ui/icons`
+         -  
+- python, pip/pip3
+  - save and apply
+    - `python ./manage.py makemigrations`
+    - `python ./manage.py migrate`
+  - `python ./manage.py runserver`
+  
+- django, djangorestframework:
+  - `django-admin startproject controller`
+  - `django-admin startapp api`
 
 ### :apple: Development
 <!-- Add development details here -->
