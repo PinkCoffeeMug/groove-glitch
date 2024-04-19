@@ -1,9 +1,9 @@
 <!-- PROJECT SUMMARY -->
 <div align="center">
-  <h1 align="center">Project_Title</h1>
+  <h1 align="center">Groove Glitch</h1>
 
   <p align="center">
-    {short project description or subtitle}
+    {a collaborative music controller with Spotify API integration}
     <br>
     <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
     ·
@@ -41,14 +41,25 @@
 </details>
 
 <!-- ABOUT -->
-## :star: About
+## :sunflower: About
 <!-- Add your project description here -->
+### :book: Description
+
 a React and Django Web App
 
-<!-- CONTENT -->
-## :clipboard: Documentation
+### :mushroom: Highlights
 
-### :green_apple: Setup
+- [ ] Spotify Integration
+- [ ] Real-Time Music Control
+- [ ] Interactive User Interface
+- [ ] Scalable Backend
+
+
+
+<!-- CONTENT -->
+## :cactus: Documentation
+
+### :honey_pot: Setup
 <!-- Add setup instructions here -->
 - nodejs, npm
     - frontend
@@ -86,7 +97,7 @@ a React and Django Web App
 * []()
 
 <!-- CONTRIBUTING -->
-## :sunflower: Contributing
+## :ear_of_rice: Contributing
 <!-- Add contribution guidelines here -->
 > 1. Fork the Project
 > 2. Create your Branch (`git checkout -b my-branch`)
@@ -96,9 +107,10 @@ a React and Django Web App
 
 
 <!-- LICENSE -->
-## :pencil: License
+## :scroll: License
 <!-- Add license information here -->
 This project is licensed under [MIT](https://opensource.org/licenses).
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements -->
+<!-- <a rel="" href="[emojishorthand](https://gist.github.com/rxaviers/7360908)"> -->
