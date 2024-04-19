@@ -5,18 +5,18 @@
   <p align="center">
     {a collaborative music controller with Spotify API integration}
     <br>
-    <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch/issues">» submit a suggestion </a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">» report a bug </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch/issues">» report a bug </a>
     ·
-    <a href="https://github.com/github_username/repo_name">» contact </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch">» contact </a>
   </p>
 
   <div align="center">
 
-![GitHub forks](https://img.shields.io/github/forks/github_username/repo-name?style=social) ![GitHub stars](https://img.shields.io/github/stars/github_username/repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/PinkCoffeeMug/groove-glitch?style=social) ![GitHub stars](https://img.shields.io/github/stars/PinkCoffeeMug/groove-glitch?style=social)
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink)
+![GitHub last commit](https://img.shields.io/github/last-commit/PinkCoffeeMug/groove-glitch?color=hotpink) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/PinkCoffeeMug/groove-glitch?color=forestgreen) ![GitHub License](https://img.shields.io/github/license/PinkCoffeeMug/groove-glitch?color=blue) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>
 </div>
