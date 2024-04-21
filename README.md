@@ -1,55 +1,102 @@
 <!-- PROJECT SUMMARY -->
 <div align="center">
-  <h1 align="center">Project_Title</h1>
+  <h1 align="center">Groove Glitch</h1>
 
   <p align="center">
-    {short project description or subtitle}
+    {a collaborative controller}
     <br>
-    <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch/issues">» submit a suggestion </a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">» report a bug </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch/issues">» report a bug </a>
     ·
-    <a href="https://github.com/github_username/repo_name">» contact </a>
+    <a href="https://github.com/PinkCoffeeMug/groove-glitch">» contact </a>
   </p>
 
   <div align="center">
 
-![GitHub forks](https://img.shields.io/github/forks/github_username/repo-name?style=social) ![GitHub stars](https://img.shields.io/github/stars/github_username/repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/PinkCoffeeMug/groove-glitch?style=social) ![GitHub stars](https://img.shields.io/github/stars/PinkCoffeeMug/groove-glitch?style=social)
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat) ![GitHub License](https://img.shields.io/github/license/github_username/repo-name?color=green) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/github_username/repo-name?color=blue) ![GitHub last commit](https://img.shields.io/github/last-commit/github_username/repo-name?color=pink)
+![GitHub last commit](https://img.shields.io/github/last-commit/PinkCoffeeMug/groove-glitch?color=hotpink) ![GitHub Pull Request (open)](https://img.shields.io/github/issues-pr/PinkCoffeeMug/groove-glitch?color=forestgreen) ![GitHub License](https://img.shields.io/github/license/PinkCoffeeMug/groove-glitch?color=blue) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat)
 
   </div>
 </div>
 
 <!-- TABLE OF CONTENT -->
-<details open="open">
+<details>
   <summary><h2 style="display: inline-block">🕹 Table of Content</h2></summary>
   <ol>
     <li>
-      <a href="#⭐-about">About</a>
+      <a href="#🌻-about">About</a>
+      <ul>
+        <li><a href="#🔧-tech-stack">Tech Stack</a></li>
+        <li><a href="#🍄-features">Features</a></li>
+      </ul>
     </li>
     <li>
-      <a href="#📋-documentation">Documentation</a>
+      <a href="#🌵-documentation">Documentation</a>
       <ul>
-        <li><a href="#🍏-setup">Setup</a></li>
+        <li><a href="#🍯-setup">Setup</a></li>
         <li><a href="#🍎-development">Development</a></li>
       </ul>
     </li>
-    <li><a href="#🌻-contributing">Contributing</a></li>
-    <li><a href="#📝-license">License</a></li>
+    <li><a href="#🌾-contributing">Contributing</a></li>
+    <li><a href="#📜-license">License</a></li>
   </ol>
 </details>
 
 <!-- ABOUT -->
-## :star: About
+## :sunflower: About
 <!-- Add your project description here -->
 
-<!-- CONTENT -->
-## :clipboard: Documentation
-> 
+### :wrench: Tech Stack
 
-### :green_apple: Setup
+- [ ] React, Javascript
+- [ ] Django, Python
+- [ ] Spotify API
+
+
+### :mushroom: Features
+
+- [ ] Spotify Integration
+- [ ] Music Control
+- [ ] Interactive User Interface
+- [ ] Scalable Backend
+
+
+
+<!-- CONTENT -->
+## :cactus: Documentation
+
+### :honey_pot: Setup
 <!-- Add setup instructions here -->
+- nodejs, npm
+    - frontend
+      - `django-admin startapp frontend`
+      - `npm init -y`
+      -  webpack: 
+         -  `npm i webpack webpack-cli --save-dev`
+         -  add in script
+            -  `"dev": "webpack --mode development --watch"`
+            -  `"build": "webpack --mode production"`
+      -  babel: 
+         -  `npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev`
+         -  `npm install @babel/plugin-proposal-class-properties`
+      -  react: 
+         -  `npm i react react-dom --save-dev`
+         -  `npm install react-router-dom`
+      -  material-ui: 
+         -  `npm install @material-ui/core` or `npm install --save --legacy-peer-deps @material-ui/core`
+         -  `npm install @material-ui/icons` or `npm install --save --legacy-peer-deps @material-ui/icons`
+         -  
+- python, pip/pip3
+  - save and apply
+    - `python ./manage.py makemigrations`
+    - `python ./manage.py migrate`
+  - `python ./manage.py runserver`
+  
+- django, djangorestframework:
+  - `django-admin startproject controller`
+  - `django-admin startapp api`
 
 ### :apple: Development
 <!-- Add development details here -->
@@ -58,7 +105,7 @@
 * []()
 
 <!-- CONTRIBUTING -->
-## :sunflower: Contributing
+## :ear_of_rice: Contributing
 <!-- Add contribution guidelines here -->
 > 1. Fork the Project
 > 2. Create your Branch (`git checkout -b my-branch`)
@@ -68,9 +115,10 @@
 
 
 <!-- LICENSE -->
-## :pencil: License
+## :scroll: License
 <!-- Add license information here -->
 This project is licensed under [MIT](https://opensource.org/licenses).
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- ## Acknowledgements -->
+<!-- <a rel="" href="[emojishorthand](https://gist.github.com/rxaviers/7360908)"> -->
