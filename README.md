@@ -3,7 +3,7 @@
   <h1 align="center">Groove Glitch</h1>
 
   <p align="center">
-    {a collaborative music controller with Spotify API integration}
+    {a collaborative controller}
     <br>
     <a href="https://github.com/PinkCoffeeMug/groove-glitch/issues">» submit a suggestion </a>
     ·
@@ -22,35 +22,43 @@
 </div>
 
 <!-- TABLE OF CONTENT -->
-<details open="open">
+<details>
   <summary><h2 style="display: inline-block">🕹 Table of Content</h2></summary>
   <ol>
     <li>
-      <a href="#⭐-about">About</a>
+      <a href="#🌻-about">About</a>
+      <ul>
+        <li><a href="#🔧-tech-stack">Tech Stack</a></li>
+        <li><a href="#🍄-features">Features</a></li>
+      </ul>
     </li>
     <li>
-      <a href="#📋-documentation">Documentation</a>
+      <a href="#🌵-documentation">Documentation</a>
       <ul>
-        <li><a href="#🍏-setup">Setup</a></li>
+        <li><a href="#🍯-setup">Setup</a></li>
         <li><a href="#🍎-development">Development</a></li>
       </ul>
     </li>
-    <li><a href="#🌻-contributing">Contributing</a></li>
-    <li><a href="#📝-license">License</a></li>
+    <li><a href="#🌾-contributing">Contributing</a></li>
+    <li><a href="#📜-license">License</a></li>
   </ol>
 </details>
 
 <!-- ABOUT -->
 ## :sunflower: About
 <!-- Add your project description here -->
-### :book: Description
 
-a React and Django Web App
+### :wrench: Tech Stack
 
-### :mushroom: Highlights
+- [ ] React, Javascript
+- [ ] Django, Python
+- [ ] Spotify API
+
+
+### :mushroom: Features
 
 - [ ] Spotify Integration
-- [ ] Real-Time Music Control
+- [ ] Music Control
 - [ ] Interactive User Interface
 - [ ] Scalable Backend
 
