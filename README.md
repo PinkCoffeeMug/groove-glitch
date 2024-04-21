@@ -22,7 +22,7 @@
 </div>
 
 <!-- TABLE OF CONTENT -->
-<details>
+<details open="open">
   <summary><h2 style="display: inline-block">🕹 Table of Content</h2></summary>
   <ol>
     <li>
